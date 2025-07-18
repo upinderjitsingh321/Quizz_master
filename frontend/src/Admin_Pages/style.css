@@ -1,0 +1,24 @@
+.container {
+  display: flex;
+  list-style: none;
+  gap: 30px;
+  justify-content: end;
+  align-items: center;
+  height: 60px;
+  background-color: #7cd3ef;
+  max-width: 1510px;
+  margin: 0;
+}
+.main_container {
+  background-color: whitte;
+}
+
+.grid_container {
+  display: grid;
+  grid-template-columns: 200px 1320px;
+}
+.side_bar {
+  height: 400px;
+  background-color: #7cd3ef;
+  padding-top: 60px;
+}

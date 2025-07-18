@@ -1,0 +1,22 @@
+.logo_class{
+    width: 100px;
+    margin-top: 15px;
+}
+
+.conatiner_grid{
+    height: 250px;
+    width: 300px;
+    border: 2px solid black;
+}
+.container_box{
+
+    margin: 200px;
+}
+.name_class{
+    font-size: 22px;
+    margin-top: 20px;
+    color:black;
+}
+.sub_conatiner{
+    margin-top: 100px;
+}

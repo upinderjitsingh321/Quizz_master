@@ -1,0 +1,28 @@
+/* admin navbar style */
+
+.admin_bar {
+  list-style: none;
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+}
+
+.list_style {
+  text-decoration: none;
+  line-height: 55px !important;
+}
+.color_list {
+  color: white;
+}
+.image-button {
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.image-button:hover {
+  transform: scale(1.05); /* slight zoom on hover */
+  opacity: 0.9;
+}

@@ -1,0 +1,23 @@
+.conatiner{
+    height: 400px;
+    text-align: center;
+}
+.list_style{
+    font-size: 18px;
+    line-height: 42px;
+    color: cornflowerblue;
+   
+}
+.ul_container{
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+     margin-top: 30px;
+}
+.grid_conatiner{
+    margin-top: 60px;
+}
+.descript{
+    margin-top: 30px;
+    font-size: 18px;
+}

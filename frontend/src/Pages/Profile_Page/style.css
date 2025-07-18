@@ -1,0 +1,38 @@
+.Basic_container{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.conatiner_box{
+    position: relative;
+}
+.For_pass{
+    text-decoration: none;
+    position: absolute;
+    right: 636px;
+    top: 516px;
+}
+
+.progress_box{
+    border: 2px solid black;
+    height: auto;
+    max-width: 400px;
+}
+
+.main_container{
+    display: flex;
+    gap: 250px;
+}
+
+.For_pass {
+  text-decoration: none;
+  color: #1976d2;
+  font-weight: 500;
+  align-self: center;
+  margin-left: auto;
+  margin-top: 10px;
+}
+.For_pass:hover {
+  text-decoration: underline;
+}
